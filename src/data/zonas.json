@@ -1,0 +1,20 @@
+[
+ {"region": "Argentina continental", "eq": 277},
+ {"region": "Argentina - Islas Malvinas", "eq": 700},
+ {"region": "Argentina - Islas Georgias del Sur", "eq": 24},
+ {"region": "Bolivia", "eq": 271},
+ {"region": "Chile", "eq": 113},
+ {"region": "Perú", "eq": 161},
+ {"region": "Uruguay", "eq": 52},
+ {"region": "Brasil sur", "eq": 91},
+ {"region": "Brasil central", "eq": 100},
+ {"region": "Brasil noreste", "eq": 56},
+ {"region": "Brasil norte", "eq": 111},
+ {"region": "Paraguay", "eq": 25},
+ {"region": "Ecuador", "eq": 206},
+ {"region": "Colombia", "eq": 91},
+ {"region": "Venezuela", "eq": 115},
+ {"region": "Guyana", "eq": 651},
+ {"region": "Surinam", "eq": 428},
+ {"region": "Guayana francesa", "eq": 448}
+]

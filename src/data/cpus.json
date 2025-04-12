@@ -1,0 +1,2010 @@
+[
+    {
+        "NAME": "AMD Athlon 200GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Athlon 220GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Athlon 240GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Athlon 3000G",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Athlon 300GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Athlon 320GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Athlon Gold 3150GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Athlon Gold PRO 3150GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Athlon PRO 200GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Athlon PRO 300GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Athlon Silver 3050GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Athlon Silver PRO 3125GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 2200GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 3200GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 4300GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 5300GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 5305GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 8300GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 2200GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 3200GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 4350GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 4355GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 5350GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 5355GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 8300GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 2400GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 3400GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 4600GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 5600GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 5605GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 8500GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 2400GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 3350GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 3400GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 4650GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 4655GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 5650GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 5655GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 8500GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 8600GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 7 4700GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 7 5700GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 7 5705GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 4750GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 5750GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 5755GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 8700GE",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Celeron G3900T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Celeron G3930T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Celeron G3930TE",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Celeron G4900T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Celeron G4930T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Celeron G5900T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Celeron G5905T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Celeron G6900T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-10100T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-10105T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-10300T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-10305T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-12100T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-12300T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-13100T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-14100T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-6100T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-6300T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-7100T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-7101TE",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-7300T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-8100T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-8300T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-9100T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i3-9300T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-10400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-10500T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-10600T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-11400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-11500T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-11600T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-12400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-12500T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-12600T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-13400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-13500T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-13600T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-14400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-14500T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-14600T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-6400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-6500T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-6600T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-7400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-7500T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-7600T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-8400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-8500T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-8600T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-9400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-9500T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i5-9600T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i7-10700T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i7-11700T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i7-12700T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i7-13700T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i7-14700T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i7-6700T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i7-7700T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i7-8700T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i7-9700T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i9-10900T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i9-11900T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i9-12900T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i9-13900T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i9-14900T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core i9-9900T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core Ultra 5 processor 225T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core Ultra 5 processor 235T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core Ultra 5 processor 245T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core Ultra 7 processor 265T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Core Ultra 9 processor 285T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium G4400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium G4500T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium G4560T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium G4600T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium Gold G5400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium Gold G5420T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium Gold G5500T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium Gold G5600T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium Gold G6400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium Gold G6405T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium Gold G6500T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium Gold G6505T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Pentium Gold G7400T",
+        "TDP": 35
+    },
+    {
+        "NAME": "Intel Processor 300T",
+        "TDP": 35
+    },
+    {
+        "NAME": "AMD Ryzen 5 2600E",
+        "TDP": 45
+    },
+    {
+        "NAME": "AMD Ryzen 7 2700E",
+        "TDP": 45
+    },
+    {
+        "NAME": "Intel Celeron G6900",
+        "TDP": 46
+    },
+    {
+        "NAME": "Intel Pentium Gold G7400",
+        "TDP": 46
+    },
+    {
+        "NAME": "Intel Processor 300",
+        "TDP": 46
+    },
+    {
+        "NAME": "Intel Celeron G3900",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Celeron G3920",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Celeron G3930",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Celeron G3950",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Core i3-6100",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Core i3-6300",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Core i3-6320",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Core i3-7100",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Core i3-7300",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Core i3-7320",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Pentium G4500",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Pentium G4520",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Pentium G4600",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Pentium G4620",
+        "TDP": 51
+    },
+    {
+        "NAME": "Intel Celeron G3930E",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Celeron G4900",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Celeron G4920",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Celeron G4930",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Celeron G4950",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Core i3-6098P",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Core i3-7101E",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Pentium G4400",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Pentium G4560",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Pentium Gold G5420",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Pentium Gold G5500",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Pentium Gold G5600",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Pentium Gold G5620",
+        "TDP": 54
+    },
+    {
+        "NAME": "Intel Celeron G5900",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Celeron G5905",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Celeron G5920",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Celeron G5925",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Core i3-12100F",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Core i3-13100F",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Core i3-14100F",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Pentium Gold G5400",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Pentium Gold G6400",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Pentium Gold G6405",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Pentium Gold G6500",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Pentium Gold G6505",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Pentium Gold G6600",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Pentium Gold G6605",
+        "TDP": 58
+    },
+    {
+        "NAME": "Intel Core i3-12100",
+        "TDP": 60
+    },
+    {
+        "NAME": "Intel Core i3-12300",
+        "TDP": 60
+    },
+    {
+        "NAME": "Intel Core i3-13100",
+        "TDP": 60
+    },
+    {
+        "NAME": "Intel Core i3-14100",
+        "TDP": 60
+    },
+    {
+        "NAME": "Intel Core i3-7350K",
+        "TDP": 60
+    },
+    {
+        "NAME": "Intel Core i3-8300",
+        "TDP": 62
+    },
+    {
+        "NAME": "Intel Core i3-9300",
+        "TDP": 62
+    },
+    {
+        "NAME": "Intel Core i3-9320",
+        "TDP": 62
+    },
+    {
+        "NAME": "AMD Athlon Gold 3150G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Athlon Gold PRO 3150G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 1200",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 1300X",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 2200G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 2300X",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 3100",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 3200G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 3300X",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 4100",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 4300G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 5300G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 5305G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 8300G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 1200",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 1300",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 2200G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 3200G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 4350G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 4355G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 5350G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 5355G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 3 PRO 8300G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 1400",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 1500X",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 1600",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 1600 (AF)",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 2400G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 2500X",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 2600",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 3400G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 3500",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 3600",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 4500",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 4600G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 5500",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 5500GT",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 5600",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 5600G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 5600GT",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 5600T",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 5600X",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 5600XT",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 5605G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 7400F",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 7500F",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 7600",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 7600X3D",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 8400F",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 8500G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 8600G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 9600",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 9600X",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 1500",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 1600",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 2400G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 2600",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 3350G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 3400G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 3600",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 4650G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 4655G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 5645",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 5650G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 5655G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 7645",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 8500G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 5 PRO 8600G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 1700",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 2700",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 3700X",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 4700G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 5700",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 5700G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 5700X",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 5705G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 5800",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 7700",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 8700F",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 8700G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 9700X",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 1700",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 2700",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 3700",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 4750G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 5750G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 5755G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 5845",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 7745",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 8700G",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 9 3900",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 9 5900",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 9 7900",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 9 PRO 3900",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 9 PRO 5945",
+        "TDP": 65
+    },
+    {
+        "NAME": "AMD Ryzen 9 PRO 7945",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i3-10100",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i3-10100F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i3-10105",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i3-10105F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i3-10300",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i3-10305",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i3-10320",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i3-10325",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i3-11100B",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i3-8100",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i3-9100",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i3-9100F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-10400",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-10400F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-10500",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-10505",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-10600",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-11400",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-11400F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-11500",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-11500B",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-11600",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-12400",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-12400F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-12500",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-12600",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-13400",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-13400F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-13500",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-13600",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-14400",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-14400F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-14500",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-14600",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-5575R",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-5675C",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-5675R",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-6400",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-6402P",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-6500",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-6585R",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-6600",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-6685R",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-7400",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-7500",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-7600",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-8400",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-8500",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-8600",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-9400",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-9400F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-9500",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-9500F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i5-9600",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-10700",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-10700F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-11700",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-11700B",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-11700F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-12700",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-12700F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-13700",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-13700F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-14700",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-14700F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-5775C",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-5775R",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-6700",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-6785R",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-7700",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-8700",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-9700",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i7-9700F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i9-10900",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i9-10900F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i9-11900",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i9-11900F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i9-11900KB",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i9-12900",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i9-12900F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i9-13900",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i9-13900F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i9-14900",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i9-14900F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core i9-9900",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core Ultra 5 processor 225",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core Ultra 5 processor 225F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core Ultra 5 processor 235",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core Ultra 5 processor 245",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core Ultra 7 processor 265",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core Ultra 7 processor 265F",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Core Ultra 9 processor 285",
+        "TDP": 65
+    },
+    {
+        "NAME": "Intel Xeon W-1250",
+        "TDP": 80
+    },
+    {
+        "NAME": "Intel Xeon W-1270",
+        "TDP": 80
+    },
+    {
+        "NAME": "Intel Xeon W-1290",
+        "TDP": 80
+    },
+    {
+        "NAME": "Intel Xeon W-1350",
+        "TDP": 80
+    },
+    {
+        "NAME": "Intel Xeon W-1370",
+        "TDP": 80
+    },
+    {
+        "NAME": "Intel Xeon W-1390",
+        "TDP": 80
+    },
+    {
+        "NAME": "Intel Core i3-8350K",
+        "TDP": 91
+    },
+    {
+        "NAME": "Intel Core i3-9350K",
+        "TDP": 91
+    },
+    {
+        "NAME": "Intel Core i3-9350KF",
+        "TDP": 91
+    },
+    {
+        "NAME": "Intel Core i5-6600K",
+        "TDP": 91
+    },
+    {
+        "NAME": "Intel Core i5-7600K",
+        "TDP": 91
+    },
+    {
+        "NAME": "Intel Core i7-6700K",
+        "TDP": 91
+    },
+    {
+        "NAME": "Intel Core i7-7700K",
+        "TDP": 91
+    },
+    {
+        "NAME": "AMD Ryzen 5 1600X",
+        "TDP": 95
+    },
+    {
+        "NAME": "AMD Ryzen 5 2600X",
+        "TDP": 95
+    },
+    {
+        "NAME": "AMD Ryzen 5 3600X",
+        "TDP": 95
+    },
+    {
+        "NAME": "AMD Ryzen 5 3600XT",
+        "TDP": 95
+    },
+    {
+        "NAME": "AMD Ryzen 7 1700X",
+        "TDP": 95
+    },
+    {
+        "NAME": "AMD Ryzen 7 1800X",
+        "TDP": 95
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 1700X",
+        "TDP": 95
+    },
+    {
+        "NAME": "AMD Ryzen 7 PRO 2700X",
+        "TDP": 95
+    },
+    {
+        "NAME": "Intel Core i5-8600K",
+        "TDP": 95
+    },
+    {
+        "NAME": "Intel Core i5-9600K",
+        "TDP": 95
+    },
+    {
+        "NAME": "Intel Core i5-9600KF",
+        "TDP": 95
+    },
+    {
+        "NAME": "Intel Core i7-8086K",
+        "TDP": 95
+    },
+    {
+        "NAME": "Intel Core i7-8700K",
+        "TDP": 95
+    },
+    {
+        "NAME": "Intel Core i7-9700K",
+        "TDP": 95
+    },
+    {
+        "NAME": "Intel Core i7-9700KF",
+        "TDP": 95
+    },
+    {
+        "NAME": "Intel Core i9-9900K",
+        "TDP": 95
+    },
+    {
+        "NAME": "Intel Core i9-9900KF",
+        "TDP": 95
+    },
+    {
+        "NAME": "AMD Ryzen 5 5600X3D",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 5 7600X",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 7 2700X",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 7 3800X",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 7 3800XT",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 7 5700X3D",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 7 5800X",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 7 5800X3D",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 7 5800XT",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 7 7700X",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 9 3900X",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 9 3900XT",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 9 3950X",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 9 5900X",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 9 5900XT",
+        "TDP": 105
+    },
+    {
+        "NAME": "AMD Ryzen 9 5950X",
+        "TDP": 105
+    },
+    {
+        "NAME": "Intel Xeon W-2225 ",
+        "TDP": 105
+    },
+    {
+        "NAME": "Intel Core i5-7640X",
+        "TDP": 112
+    },
+    {
+        "NAME": "Intel Core i7-7740X",
+        "TDP": 112
+    },
+    {
+        "NAME": "AMD Ryzen 7 7800X3D",
+        "TDP": 120
+    },
+    {
+        "NAME": "AMD Ryzen 7 9800X3D",
+        "TDP": 120
+    },
+    {
+        "NAME": "AMD Ryzen 9 7900X3D",
+        "TDP": 120
+    },
+    {
+        "NAME": "AMD Ryzen 9 7950X3D",
+        "TDP": 120
+    },
+    {
+        "NAME": "AMD Ryzen 9 9900X",
+        "TDP": 120
+    },
+    {
+        "NAME": "AMD Ryzen 9 9900X3D",
+        "TDP": 120
+    },
+    {
+        "NAME": "Intel Core i5-10600K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i5-10600KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i5-11600K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i5-11600KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i5-12600K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i5-12600KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i5-13600K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i5-13600KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i5-14600K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i5-14600KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i7-10700K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i7-10700KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i7-11700K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i7-11700KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i7-12700K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i7-12700KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i7-13700K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i7-13700KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i7-14700K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i7-14700KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-10850K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-10900K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-10900KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-10910",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-11900K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-11900KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-12900K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-12900KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-13900K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-13900KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-14900K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-14900KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core Ultra 5 processor 245K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core Ultra 5 processor 245KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core Ultra 7 processor 265K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core Ultra 7 processor 265KF",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core Ultra 9 processor 285K",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Xeon W-1250P",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Xeon W-1270P",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Xeon W-1290P",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Xeon W-1350P",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Xeon W-1370P",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Xeon W-1390P",
+        "TDP": 125
+    },
+    {
+        "NAME": "Intel Core i9-9900KS ",
+        "TDP": 127
+    },
+    {
+        "NAME": "Intel Xeon W-2235",
+        "TDP": 130
+    },
+    {
+        "NAME": "Intel Xeon w3-2425",
+        "TDP": 130
+    },
+    {
+        "NAME": "Intel Core i7-6800K",
+        "TDP": 140
+    },
+    {
+        "NAME": "Intel Core i7-6850K",
+        "TDP": 140
+    },
+    {
+        "NAME": "Intel Core i7-6900K",
+        "TDP": 140
+    },
+    {
+        "NAME": "Intel Core i7-6950X",
+        "TDP": 140
+    },
+    {
+        "NAME": "Intel Core i7-7800X",
+        "TDP": 140
+    },
+    {
+        "NAME": "Intel Core i7-7820X",
+        "TDP": 140
+    },
+    {
+        "NAME": "Intel Core i9-7900X",
+        "TDP": 140
+    },
+    {
+        "NAME": "Intel Core i9-7920X",
+        "TDP": 140
+    },
+    {
+        "NAME": "Intel Core i9-12900KS",
+        "TDP": 150
+    },
+    {
+        "NAME": "Intel Core i9-13900KS",
+        "TDP": 150
+    },
+    {
+        "NAME": "Intel Core i9-14900KS",
+        "TDP": 150
+    },
+    {
+        "NAME": "Intel Xeon W-2245 ",
+        "TDP": 155
+    },
+    {
+        "NAME": "Intel Core i7-9800X",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-10900X",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-10920X",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-10940X",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-10980XE",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-7940X",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-7960X",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-7980XE",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-9820X",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-9900X",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-9920X",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-9940X",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-9960X",
+        "TDP": 165
+    },
+    {
+        "NAME": "Intel Core i9-9980XE",
+        "TDP": 165
+    }
+]
