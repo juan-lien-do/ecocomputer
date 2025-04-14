@@ -55,18 +55,34 @@ const LandingPage = () => {
           <div className="bg-white rounded-lg shadow-md p-6">
             <h3 className="text-xl font-bold mb-3 text-green-800">Fuentes de información</h3>
             <ul className="list-disc pl-5 text-gray-700 space-y-2">
-              <li>Datos de intensidad de carbono por región</li>
-              <li>Consumo energético de componentes de PC</li>
-              <li>Factores de eficiencia energética</li>
-              <li>Capacidad de absorción de CO₂ de los árboles</li>
+              <li>Curso “Carbon Aware Computing for GenAI developer.” </li>
+              <li>NewEgg Power Supply Calculator</li>
+              <li>Eatyourbytes List of CPUs by TDP</li>
+              <li>videocardbenchmark.net</li>
             </ul>
           </div>
           <div className="bg-white rounded-lg shadow-md p-6">
-            <h3 className="text-xl font-bold mb-3 text-green-800">Sobre los autores</h3>
+            <h3 className="text-xl font-bold mb-3 text-green-800">¿Quiénes somos?</h3>
             <p className="text-gray-700">
-              Este proyecto fue desarrollado por un equipo comprometido con la sostenibilidad ambiental y la tecnología
-              responsable. Nuestro objetivo es crear conciencia sobre el impacto ambiental de nuestros dispositivos
-              electrónicos y promover prácticas más sostenibles.
+              Estudiantes de la cátedra de Green Software de Ingeniería en Sistemas de la Información en la Universidad Tecnológica Nacional.
+              <ul className="list-disc pl-5 text-gray-700 space-y-2">
+              <li>
+                Liendo, Juan Esteban
+                </li>
+                <li>
+                Longo Prudencio, Maximo
+                </li>
+                <li>
+                Validakis Juan Martin
+                </li>
+                <li>
+                Castro, Martin
+                </li>
+                <li>
+                Gallego, José Valentín
+                </li>
+
+              </ul>
             </p>
           </div>
         </section>

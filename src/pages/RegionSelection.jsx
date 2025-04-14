@@ -43,7 +43,7 @@ const RegionSelection = () => {
 
       <main className="flex-grow container mx-auto px-4 py-8">
         <div className="max-w-md mx-auto bg-white rounded-lg shadow-md p-6">
-          <h2 className="text-2xl font-bold mb-6 text-center text-green-800">¿De qué zona eres?</h2>
+          <h2 className="text-2xl font-bold mb-6 text-center text-green-800">¿De qué zona sos?</h2>
           <p className="mb-4 text-gray-700">
             Selecciona tu región para determinar la intensidad de carbono de la matriz energética.
           </p>

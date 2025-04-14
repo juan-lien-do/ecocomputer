@@ -111,12 +111,6 @@ const ComparisonPage = () => {
                               {formatNumber(config.annualEmissions)} kg CO₂
                             </span>
                           </div>
-                          <div className="w-full bg-gray-200 rounded-full h-2.5">
-                            <div
-                              className={`${getEmissionColor(config.annualEmissions).replace("text-", "bg-")} h-2.5 rounded-full`}
-                              style={{ width: getBarWidth(config.annualEmissions) }}
-                            ></div>
-                          </div>
                         </div>
 
                         <div className="mt-1">
