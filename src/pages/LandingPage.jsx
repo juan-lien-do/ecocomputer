@@ -41,31 +41,23 @@ const LandingPage = () => {
         <section className="max-w-4xl mx-auto mb-12 bg-white rounded-lg shadow-md p-6">
           <h3 className="text-2xl font-bold mb-4 text-green-800">¿Por qué es importante?</h3>
           <p className="mb-4 text-gray-700">
-            Las computadoras personales consumen una cantidad significativa de energía, contribuyendo a las emisiones de
+            Las computadoras personales consumen una cantidad significativa de energía contribuyendo a las emisiones de
             gases de efecto invernadero. Conocer el impacto ambiental de nuestros dispositivos es el primer paso para
-            tomar decisiones más sostenibles.
+            tomar decisiones más sustentables.
           </p>
           <p className="text-gray-700">
-            Esta calculadora te ayuda a estimar las emisiones de carbono anuales de tu computadora basándose en su
+            Esta calculadora te ayudará a estimar las emisiones de carbono anuales de tu computadora basándose en su
             consumo energético y la matriz energética de tu región.
           </p>
         </section>
 
         <section className="max-w-4xl mx-auto grid md:grid-cols-2 gap-8">
           <div className="bg-white rounded-lg shadow-md p-6">
-            <h3 className="text-xl font-bold mb-3 text-green-800">Fuentes de información</h3>
-            <ul className="list-disc pl-5 text-gray-700 space-y-2">
-              <li>Curso “Carbon Aware Computing for GenAI developer.” </li>
-              <li>NewEgg Power Supply Calculator</li>
-              <li>Eatyourbytes List of CPUs by TDP</li>
-              <li>videocardbenchmark.net</li>
-            </ul>
-          </div>
-          <div className="bg-white rounded-lg shadow-md p-6">
             <h3 className="text-xl font-bold mb-3 text-green-800">¿Quiénes somos?</h3>
-            <p className="text-gray-700">
-              Estudiantes de la cátedra de Green Software de Ingeniería en Sistemas de la Información en la Universidad Tecnológica Nacional.
-              <ul className="list-disc pl-5 text-gray-700 space-y-2">
+            <p className="text-gray-700 mb-3">
+              Somos estudiantes de la cátedra de Green Software de Ingeniería en Sistemas de la Información en la Universidad Tecnológica Nacional.  
+            </p>
+	    <ul className="list-disc pl-5 text-gray-700 space-y-2">
               <li>
                 Liendo, Juan Esteban
                 </li>
@@ -83,8 +75,18 @@ const LandingPage = () => {
                 </li>
 
               </ul>
-            </p>
           </div>
+          <div className="bg-white rounded-lg shadow-md p-6">
+            <h3 className="text-xl font-bold mb-3 text-green-800">Fuentes de información</h3>
+            <ul className="list-disc pl-5 text-gray-700 space-y-2">
+              <li>Curso “Carbon Aware Computing for GenAI developer.” </li>
+              <li>NewEgg Power Supply Calculator</li>
+              <li>Eatyourbytes List of CPUs by TDP</li>
+              <li>videocardbenchmark.net</li>
+              <li>MSI Afterburner™ & Rivatuner Statistics Server</li>
+            </ul>
+          </div>
+
         </section>
       </main>
 
